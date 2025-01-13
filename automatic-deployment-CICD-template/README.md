@@ -14,7 +14,7 @@ A deployment automation tool for Akash Network that provides a Vercel-like exper
 - Vite-react 
 - Vue.js 
 - Astro
-- Angular
+- Angular 
 - Express.js
 - Next.js
 - Ember.js

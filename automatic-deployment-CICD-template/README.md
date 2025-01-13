@@ -12,7 +12,7 @@ A deployment automation tool for Akash Network that provides a Vercel-like exper
 ### JavaScript Frameworks:
 - React
 - Vite-react
-- Vue.js
+- Vue.js 
 - Astro
 - Angular
 - Express.js
